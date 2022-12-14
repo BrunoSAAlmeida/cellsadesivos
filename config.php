@@ -9,6 +9,6 @@
 
     spl_autoload_register($autoload);
 
-    define('INCLUDE_PATH','http://cellsadesivos/');
+    define('INCLUDE_PATH','http://https://brunosaalmeida.github.io/cellsadesivos/');
 
 ?>
